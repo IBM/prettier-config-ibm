@@ -9,9 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/IBM/prettier-config-ibm.git"
   },
-  "files": [
-    "index.js"
-  ],
+  "main": "index.js",
   "keywords": [
     "ibm",
     "code",
