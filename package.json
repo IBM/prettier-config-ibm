@@ -1,0 +1,39 @@
+{
+  "name": "prettier-config-ibm",
+  "version": "1.0.0",
+  "description": "Prettier configuration for the IBM coding style.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBM/prettier-config-ibm.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ibm",
+    "code",
+    "code quality",
+    "config",
+    "es6",
+    "format",
+    "formatter",
+    "guide",
+    "lint",
+    "linter",
+    "prettier",
+    "prettierconfig",
+    "prettier config",
+    "quality",
+    "style",
+    "style guide"
+  ],
+  "author": "Eddybrando Vásquez <eddybrando@ibm.com> (https://eddybrando.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IBM/prettier-config-ibm/issues"
+  },
+  "homepage": "https://github.com/IBM/prettier-config-ibm"
+}
